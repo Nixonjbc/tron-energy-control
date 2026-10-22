@@ -1,0 +1,16 @@
+{
+  "name": "TRON Energy Control",
+  "short_name": "TRON Energy",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#091422",
+  "theme_color": "#091422",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
